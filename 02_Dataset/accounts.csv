@@ -1,0 +1,121 @@
+account_id,user_id,bank_name,account_type,balance
+1,45,MB Bank,Savings,12614504
+2,79,MB Bank,Savings,39173467
+3,82,VPBank,Debit Card,11720250
+4,13,VPBank,Debit Card,4024598
+5,50,ACB,Credit Card,43125602
+6,3,ACB,Credit Card,25492086
+7,87,TPBank,Savings,24709684
+8,50,ACB,Credit Card,11404134
+9,17,TPBank,Savings,28087796
+10,55,MB Bank,Debit Card,11394286
+11,43,MB Bank,Credit Card,47628947
+12,56,MB Bank,Credit Card,17721109
+13,28,ACB,Savings,35891340
+14,7,TPBank,Savings,17339436
+15,52,VPBank,Savings,25367766
+16,13,Techcombank,Debit Card,35080597
+17,24,MB Bank,Credit Card,22900244
+18,57,MB Bank,Savings,1338908
+19,85,ACB,Savings,38713750
+20,95,VPBank,Credit Card,49116648
+21,64,MB Bank,Savings,47141758
+22,87,MB Bank,Savings,21849445
+23,67,TPBank,Savings,19533657
+24,70,TPBank,Credit Card,48536911
+25,80,TPBank,Debit Card,20314933
+26,44,MB Bank,Credit Card,32344012
+27,89,Techcombank,Savings,14138995
+28,88,MB Bank,Debit Card,36322830
+29,93,MB Bank,Savings,10925375
+30,91,MB Bank,Debit Card,30725704
+31,66,ACB,Savings,46910764
+32,26,Techcombank,Debit Card,12957201
+33,32,TPBank,Debit Card,19904493
+34,100,VPBank,Savings,1020935
+35,92,VPBank,Savings,20705780
+36,69,MB Bank,Savings,42851615
+37,5,MB Bank,Savings,23748752
+38,19,VPBank,Savings,16514901
+39,92,MB Bank,Credit Card,22339885
+40,38,MB Bank,Credit Card,34655973
+41,31,VPBank,Credit Card,2981520
+42,69,MB Bank,Savings,37803541
+43,46,ACB,Debit Card,23354281
+44,55,VPBank,Savings,36051179
+45,46,ACB,Credit Card,9877221
+46,36,ACB,Savings,9981902
+47,31,MB Bank,Credit Card,23946557
+48,72,Techcombank,Credit Card,40978319
+49,54,TPBank,Credit Card,42734304
+50,2,MB Bank,Credit Card,19278318
+51,15,Techcombank,Debit Card,36383918
+52,81,ACB,Savings,16197019
+53,68,ACB,Savings,23247796
+54,26,TPBank,Credit Card,22738323
+55,39,TPBank,Debit Card,2058252
+56,69,Techcombank,Debit Card,36967017
+57,52,ACB,Debit Card,3755014
+58,16,TPBank,Credit Card,39892422
+59,72,TPBank,Credit Card,47137232
+60,94,TPBank,Debit Card,30531593
+61,72,ACB,Debit Card,15101267
+62,40,VPBank,Credit Card,40055923
+63,11,Techcombank,Credit Card,24579220
+64,64,ACB,Credit Card,21519662
+65,74,Techcombank,Credit Card,4768164
+66,46,Techcombank,Credit Card,27536451
+67,92,VPBank,Debit Card,24924471
+68,100,ACB,Debit Card,29624364
+69,68,ACB,Savings,7442106
+70,3,ACB,Debit Card,45491269
+71,6,ACB,Savings,39921646
+72,49,TPBank,Savings,20072657
+73,66,ACB,Debit Card,38245437
+74,78,Techcombank,Credit Card,45581943
+75,36,Techcombank,Credit Card,29553788
+76,65,ACB,Debit Card,31544887
+77,5,TPBank,Credit Card,11685727
+78,91,TPBank,Savings,47149011
+79,74,ACB,Credit Card,18149313
+80,32,VPBank,Credit Card,19645038
+81,67,ACB,Debit Card,33723168
+82,36,TPBank,Savings,11983010
+83,100,VPBank,Debit Card,36775314
+84,71,TPBank,Credit Card,19825877
+85,55,ACB,Credit Card,37415284
+86,73,ACB,Savings,23042923
+87,20,Techcombank,Savings,30389511
+88,67,MB Bank,Debit Card,38479789
+89,71,VPBank,Debit Card,37030364
+90,54,ACB,Credit Card,11143173
+91,49,TPBank,Debit Card,22660672
+92,9,ACB,Debit Card,21403537
+93,53,MB Bank,Savings,24751682
+94,31,Techcombank,Debit Card,9463935
+95,80,ACB,Savings,39344590
+96,60,MB Bank,Debit Card,14473518
+97,78,Techcombank,Debit Card,23946928
+98,89,MB Bank,Savings,30419895
+99,15,Techcombank,Credit Card,10658466
+100,36,Techcombank,Credit Card,16207372
+101,90,Techcombank,Debit Card,16617618
+102,33,TPBank,Savings,16047561
+103,6,ACB,Credit Card,42254389
+104,27,TPBank,Savings,2149917
+105,21,MB Bank,Savings,4612218
+106,15,ACB,Credit Card,30947297
+107,69,Techcombank,Debit Card,37407609
+108,8,TPBank,Debit Card,32638695
+109,34,TPBank,Credit Card,5613509
+110,11,VPBank,Debit Card,44569305
+111,42,VPBank,Credit Card,18032962
+112,88,Techcombank,Credit Card,17236473
+113,86,VPBank,Savings,42811350
+114,15,Techcombank,Credit Card,39732233
+115,25,MB Bank,Credit Card,48123898
+116,16,VPBank,Debit Card,5635359
+117,32,MB Bank,Debit Card,42411806
+118,75,ACB,Credit Card,41752016
+119,21,MB Bank,Credit Card,46946251
+120,49,MB Bank,Debit Card,49647212
